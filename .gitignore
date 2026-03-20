@@ -3,3 +3,5 @@ build
 components/apriltag
 components/esp32-camera
 sdkconfig.old
+**/.DS_Store
+.vscode
